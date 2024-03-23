@@ -26,7 +26,7 @@ Before running this application, ensure you have the following installed on your
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mycontacts-backend.git
+   git clone https://github.com/Ana-0804/mycontacts-backend.git
 
 ## Navigate into the project directory:
 
